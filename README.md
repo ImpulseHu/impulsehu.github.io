@@ -1,2 +1,1 @@
-# impulsehu.github.io
-github page
+impulsehu的个人博客
